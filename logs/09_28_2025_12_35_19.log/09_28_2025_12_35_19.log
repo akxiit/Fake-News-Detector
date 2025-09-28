@@ -1,0 +1,28 @@
+[2025-09-28 12:35:23,103] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-09-28 12:35:23,129] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-09-28 12:35:46,777] 31 root - INFO - Starting text preprocessing
+[2025-09-28 12:35:46,787] 54 root - INFO - Text preprocessing completed
+[2025-09-28 12:35:47,270] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:47] "POST /predict HTTP/1.1" 200 -
+[2025-09-28 12:35:47,669] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:35:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-09-28 12:36:17,146] 31 root - INFO - Starting text preprocessing
+[2025-09-28 12:36:17,161] 54 root - INFO - Text preprocessing completed
+[2025-09-28 12:36:17,231] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:36:17] "POST /predict HTTP/1.1" 200 -
+[2025-09-28 12:37:00,471] 31 root - INFO - Starting text preprocessing
+[2025-09-28 12:37:00,486] 54 root - INFO - Text preprocessing completed
+[2025-09-28 12:37:00,486] 38 root - INFO - Original content was filtered out, using fallback
+[2025-09-28 12:37:00,620] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:37:00] "POST /predict HTTP/1.1" 200 -
+[2025-09-28 12:37:15,260] 31 root - INFO - Starting text preprocessing
+[2025-09-28 12:37:15,271] 54 root - INFO - Text preprocessing completed
+[2025-09-28 12:37:15,334] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:37:15] "POST /predict HTTP/1.1" 200 -
+[2025-09-28 12:37:35,452] 31 root - INFO - Starting text preprocessing
+[2025-09-28 12:37:35,471] 54 root - INFO - Text preprocessing completed
+[2025-09-28 12:37:35,571] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:37:35] "POST /predict HTTP/1.1" 200 -
+[2025-09-28 12:37:49,678] 31 root - INFO - Starting text preprocessing
+[2025-09-28 12:37:49,691] 54 root - INFO - Text preprocessing completed
+[2025-09-28 12:37:49,758] 97 werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 12:37:49] "POST /predict HTTP/1.1" 200 -
+[2025-09-28 12:38:45,788] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-09-28 12:38:45,791] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-09-28 12:38:45,795] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-09-28 12:38:45,797] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-09-28 12:38:45,801] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-09-28 12:38:45,802] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\predict_pipeline.py', reloading

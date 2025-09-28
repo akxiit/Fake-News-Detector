@@ -1,0 +1,24 @@
+[2025-09-20 14:31:36,346] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-09-20 14:31:36,371] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-09-20 14:31:36,727] 31 root - INFO - Starting text preprocessing
+[2025-09-20 14:31:36,739] 54 root - INFO - Text preprocessing completed
+[2025-09-20 14:31:36,959] 97 werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:31:36] "POST /predict HTTP/1.1" 200 -
+[2025-09-20 14:31:51,304] 97 werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:31:51] "GET / HTTP/1.1" 200 -
+[2025-09-20 14:31:59,291] 97 werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:31:59] "GET /home HTTP/1.1" 200 -
+[2025-09-20 14:32:04,422] 31 root - INFO - Starting text preprocessing
+[2025-09-20 14:32:04,436] 54 root - INFO - Text preprocessing completed
+[2025-09-20 14:32:04,443] 97 werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:32:04] "POST /predict HTTP/1.1" 200 -
+[2025-09-20 14:32:30,161] 31 root - INFO - Starting text preprocessing
+[2025-09-20 14:32:30,177] 54 root - INFO - Text preprocessing completed
+[2025-09-20 14:32:30,185] 97 werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:32:30] "POST /predict HTTP/1.1" 200 -
+[2025-09-20 14:33:11,627] 31 root - INFO - Starting text preprocessing
+[2025-09-20 14:33:11,650] 54 root - INFO - Text preprocessing completed
+[2025-09-20 14:33:11,661] 97 werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:33:11] "POST /predict HTTP/1.1" 200 -
+[2025-09-20 14:46:36,384] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading
+[2025-09-20 14:46:36,386] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading
+[2025-09-20 14:46:36,590] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading
+[2025-09-20 14:46:36,592] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading
+[2025-09-20 14:46:36,593] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading
+[2025-09-20 14:46:36,593] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading
+[2025-09-20 14:46:36,594] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading
+[2025-09-20 14:46:36,595] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\transformer_predict_pipeline.py', reloading

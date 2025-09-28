@@ -1,0 +1,2 @@
+[2025-09-20 15:05:40,295] 32 root - INFO - Initializing bart model for fake news detection
+[2025-09-20 15:05:43,877] 61 root - ERROR - Error initializing model: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.

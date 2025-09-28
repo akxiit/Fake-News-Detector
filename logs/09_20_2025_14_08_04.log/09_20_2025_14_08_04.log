@@ -1,0 +1,8 @@
+[2025-09-20 14:08:08,167] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-09-20 14:08:08,194] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-09-20 14:08:22,866] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\app.py', reloading
+[2025-09-20 14:08:22,867] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\app.py', reloading
+[2025-09-20 14:08:22,869] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\app.py', reloading
+[2025-09-20 14:08:22,870] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\app.py', reloading
+[2025-09-20 14:08:22,871] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\app.py', reloading
+[2025-09-20 14:08:22,873] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\app.py', reloading

@@ -1,0 +1,7 @@
+[2025-09-20 13:32:37,271] 164 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-09-20 13:32:41,783] 28 root - INFO - Data Ingestion method starts
+[2025-09-20 13:32:50,068] 42 root - INFO - Train Test split initiated
+[2025-09-20 13:32:54,750] 49 root - INFO - Data Ingestion completed
+[2025-09-20 13:32:57,560] 83 root - INFO - Read train and test data completed
+[2025-09-20 13:32:57,560] 88 root - INFO - Split input and target feature
+[2025-09-20 13:32:57,565] 96 root - INFO - Apply preprocessing object on training and testing data

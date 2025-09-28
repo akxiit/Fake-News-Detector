@@ -1,0 +1,24 @@
+[2025-09-20 13:52:33,775] 164 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-09-20 13:52:37,669] 28 root - INFO - Data Ingestion method starts
+[2025-09-20 13:52:44,609] 42 root - INFO - Train Test split initiated
+[2025-09-20 13:52:48,872] 49 root - INFO - Data Ingestion completed
+[2025-09-20 13:52:51,540] 83 root - INFO - Read train and test data completed
+[2025-09-20 13:52:51,540] 88 root - INFO - Split input and target feature
+[2025-09-20 13:52:51,806] 101 root - INFO - Apply preprocessing object on training and testing data
+[2025-09-20 13:52:51,806] 31 root - INFO - Starting text preprocessing
+[2025-09-20 13:53:02,510] 54 root - INFO - Text preprocessing completed
+[2025-09-20 13:53:02,510] 31 root - INFO - Starting text preprocessing
+[2025-09-20 13:53:05,510] 54 root - INFO - Text preprocessing completed
+[2025-09-20 13:53:05,510] 108 root - INFO - Tfidf vectorization
+[2025-09-20 13:54:10,278] 124 root - INFO - Saved preprocessing object
+[2025-09-20 13:54:10,279] 14 root - INFO - Save the trained model, vectorizer, and results
+[2025-09-20 13:54:10,280] 26 root - INFO - Model, vectorizer, and results saved successfully!
+[2025-09-20 13:54:10,280] 14 root - INFO - Save the trained model, vectorizer, and results
+[2025-09-20 13:54:10,320] 26 root - INFO - Model, vectorizer, and results saved successfully!
+[2025-09-20 13:54:10,321] 136 root - INFO - Preprocessor pickle file saved
+[2025-09-20 13:54:10,745] 33 root - INFO - Model Trainer initiated
+[2025-09-20 13:54:10,745] 66 root - INFO - Model are initialized
+[2025-09-20 13:54:10,745] 67 root - INFO - Evaluting Models
+[2025-09-25 12:46:04,064] 86 root - INFO - Best model found: SVM with score 0.9945701357466064
+[2025-09-25 12:46:04,080] 14 root - INFO - Save the trained model, vectorizer, and results
+[2025-09-25 12:46:04,645] 26 root - INFO - Model, vectorizer, and results saved successfully!
