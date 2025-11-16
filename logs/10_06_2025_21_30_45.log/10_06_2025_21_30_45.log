@@ -1,0 +1,28 @@
+[2025-10-06 21:30:48,415] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-06 21:30:48,444] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-06 21:30:49,922] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:30:49] "GET / HTTP/1.1" 200 -
+[2025-10-06 21:30:53,069] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:30:53] "GET /home HTTP/1.1" 200 -
+[2025-10-06 21:32:34,471] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:32:34,487] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:32:34,526] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:32:34] "POST /predict HTTP/1.1" 200 -
+[2025-10-06 21:33:08,098] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:33:08,109] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:33:08,153] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:33:08] "POST /predict HTTP/1.1" 200 -
+[2025-10-06 21:33:18,467] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:33:18,478] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:33:18,526] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:33:18] "POST /predict HTTP/1.1" 200 -
+[2025-10-06 21:33:31,443] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:33:31,454] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:33:31,498] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:33:31] "POST /predict HTTP/1.1" 200 -
+[2025-10-06 21:33:39,850] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:33:39,857] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:33:39,897] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:33:39] "POST /predict HTTP/1.1" 200 -
+[2025-10-06 21:33:49,455] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:33:49,468] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:33:49,521] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:33:49] "POST /predict HTTP/1.1" 200 -
+[2025-10-06 21:33:57,051] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:33:57,059] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:33:57,097] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:33:57] "POST /predict HTTP/1.1" 200 -
+[2025-10-06 21:34:10,605] 31 root - INFO - Starting text preprocessing
+[2025-10-06 21:34:10,619] 54 root - INFO - Text preprocessing completed
+[2025-10-06 21:34:10,671] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 21:34:10] "POST /predict HTTP/1.1" 200 -

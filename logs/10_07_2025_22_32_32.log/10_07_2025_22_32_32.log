@@ -1,0 +1,14 @@
+[2025-10-07 22:32:35,293] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-07 22:32:35,375] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-07 22:32:35,578] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:32:35] "GET /home HTTP/1.1" 200 -
+[2025-10-07 22:32:36,077] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:32:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-10-07 22:32:38,666] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:32:38] "GET / HTTP/1.1" 200 -
+[2025-10-07 22:32:44,904] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:32:44] "GET /home HTTP/1.1" 200 -
+[2025-10-07 22:32:48,889] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:32:48] "GET / HTTP/1.1" 200 -
+[2025-10-07 22:33:23,941] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:33:23] "GET /home HTTP/1.1" 200 -
+[2025-10-07 22:33:57,624] 31 root - INFO - Starting text preprocessing
+[2025-10-07 22:33:57,662] 54 root - INFO - Text preprocessing completed
+[2025-10-07 22:33:57,664] 39 root - INFO - Original content was filtered out, using fallback
+[2025-10-07 22:33:57,737] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:33:57] "POST /predict HTTP/1.1" 200 -
+[2025-10-07 22:35:21,111] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:35:21] "GET / HTTP/1.1" 200 -
+[2025-10-07 22:55:49,165] 97 werkzeug - INFO - 127.0.0.1 - - [07/Oct/2025 22:55:49] "GET /home HTTP/1.1" 200 -

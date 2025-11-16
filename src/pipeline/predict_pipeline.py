@@ -21,7 +21,7 @@ class PredictPipeline:
 
             preprocessor_path = 'artifacts/preprocessor.pkl'
 
-            vectorizer_path = 'artifacts/tfidf_vectorizer.pkl'  # Try the other vectorizer file
+            vectorizer_path = 'artifacts/vectorizer.pkl'  # Try the other vectorizer file
 
             model = load_object(file_path=model_path)
 

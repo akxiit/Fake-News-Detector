@@ -1,0 +1,21 @@
+[2025-10-06 18:54:38,239] 164 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-10-06 18:54:42,837] 28 root - INFO - Data Ingestion method starts
+[2025-10-06 18:54:57,560] 42 root - INFO - Train Test split initiated
+[2025-10-06 18:55:10,433] 49 root - INFO - Data Ingestion completed
+[2025-10-06 18:55:17,090] 83 root - INFO - Read train and test data completed
+[2025-10-06 18:55:17,090] 88 root - INFO - Split input and target feature
+[2025-10-06 18:55:17,570] 101 root - INFO - Apply preprocessing object on training and testing data
+[2025-10-06 18:55:17,570] 31 root - INFO - Starting text preprocessing
+[2025-10-06 18:55:51,042] 54 root - INFO - Text preprocessing completed
+[2025-10-06 18:55:51,042] 31 root - INFO - Starting text preprocessing
+[2025-10-06 18:55:57,132] 54 root - INFO - Text preprocessing completed
+[2025-10-06 18:55:57,133] 108 root - INFO - Tfidf vectorization
+[2025-10-06 18:58:12,404] 124 root - INFO - Saved preprocessing object
+[2025-10-06 18:58:12,405] 14 root - INFO - Save the trained model, vectorizer, and results
+[2025-10-06 18:58:12,410] 26 root - INFO - Model, vectorizer, and results saved successfully!
+[2025-10-06 18:58:12,410] 14 root - INFO - Save the trained model, vectorizer, and results
+[2025-10-06 18:58:12,486] 26 root - INFO - Model, vectorizer, and results saved successfully!
+[2025-10-06 18:58:12,486] 136 root - INFO - Preprocessor pickle file saved
+[2025-10-06 18:58:13,165] 33 root - INFO - Model Trainer initiated
+[2025-10-06 18:58:13,165] 66 root - INFO - Model are initialized
+[2025-10-06 18:58:13,166] 67 root - INFO - Evaluting Models

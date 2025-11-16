@@ -1,0 +1,8 @@
+[2025-10-06 10:57:37,041] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-06 10:57:37,070] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-06 10:57:38,467] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:57:38] "GET / HTTP/1.1" 200 -
+[2025-10-06 10:57:40,658] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:57:40] "GET /home HTTP/1.1" 200 -
+[2025-10-06 10:57:50,485] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:57:50] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-10-06 10:57:50,898] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:57:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-10-06 10:57:50,899] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:57:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-10-06 10:57:50,935] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:57:50] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=CnosOrPHtXWLkZfOGSIe HTTP/1.1" 200 -

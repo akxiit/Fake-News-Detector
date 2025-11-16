@@ -1,0 +1,12 @@
+[2025-10-04 08:51:11,101] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-04 08:51:11,127] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-04 08:51:14,620] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+[2025-10-04 08:51:14,621] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+[2025-10-04 08:51:14,661] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+[2025-10-04 08:51:14,665] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+[2025-10-04 08:51:14,833] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+[2025-10-04 08:51:14,834] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+[2025-10-04 08:51:14,920] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+[2025-10-04 08:51:14,920] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+[2025-10-04 08:51:14,961] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+[2025-10-04 08:51:14,964] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading

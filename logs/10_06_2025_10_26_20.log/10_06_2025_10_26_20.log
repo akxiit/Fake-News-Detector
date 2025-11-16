@@ -1,0 +1,9 @@
+[2025-10-06 10:26:22,380] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-06 10:26:22,405] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-06 10:26:34,224] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:26:34] "GET / HTTP/1.1" 200 -
+[2025-10-06 10:26:34,428] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:26:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-10-06 10:26:47,960] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:26:47] "GET /home HTTP/1.1" 200 -
+[2025-10-06 10:27:12,207] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\flask\\app.py', reloading
+[2025-10-06 10:27:12,209] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\flask\\app.py', reloading
+[2025-10-06 10:27:12,272] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\pipeline\\predict_pipeline.py', reloading
+[2025-10-06 10:27:12,274] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\pipeline\\predict_pipeline.py', reloading

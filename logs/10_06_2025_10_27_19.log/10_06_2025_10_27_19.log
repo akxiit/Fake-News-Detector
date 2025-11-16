@@ -1,0 +1,7 @@
+[2025-10-06 10:27:21,845] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-06 10:27:21,877] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-06 10:27:22,336] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\utils.py', reloading
+[2025-10-06 10:27:22,337] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\utils.py', reloading
+[2025-10-06 10:27:22,404] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:27:22] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-10-06 10:27:22,973] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:27:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-10-06 10:27:22,991] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:27:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -

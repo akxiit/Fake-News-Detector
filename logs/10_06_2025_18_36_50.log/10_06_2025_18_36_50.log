@@ -1,0 +1,12 @@
+[2025-10-06 18:36:52,932] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-06 18:36:52,962] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-06 18:37:30,241] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\setup.py', reloading
+[2025-10-06 18:37:30,247] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\setup.py', reloading
+[2025-10-06 18:37:30,250] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\components\\data_ingestion.py', reloading
+[2025-10-06 18:37:30,253] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\components\\data_ingestion.py', reloading
+[2025-10-06 18:37:30,256] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\components\\data_transformation.py', reloading
+[2025-10-06 18:37:30,259] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\components\\data_transformation.py', reloading
+[2025-10-06 18:37:30,262] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\components\\model_trainer.py', reloading
+[2025-10-06 18:37:30,264] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\components\\model_trainer.py', reloading
+[2025-10-06 18:37:30,266] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\src\\exception.py', reloading
+[2025-10-06 18:37:30,267] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\src\\exception.py', reloading

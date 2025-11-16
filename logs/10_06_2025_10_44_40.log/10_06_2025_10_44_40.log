@@ -1,0 +1,19 @@
+[2025-10-06 10:44:42,512] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-06 10:44:42,541] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-06 10:44:42,629] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:44:42] "GET / HTTP/1.1" 200 -
+[2025-10-06 10:44:42,851] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:44:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-10-06 10:44:44,769] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:44:44] "GET /home HTTP/1.1" 200 -
+[2025-10-06 10:45:53,214] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:45:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-10-06 10:45:53,430] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:45:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-10-06 10:45:53,430] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:45:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-10-06 10:45:53,480] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 10:45:53] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=DCnFR2bUYod0LRlZIjsK HTTP/1.1" 200 -
+[2025-10-06 10:46:35,059] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\zmq\\__init__.py', reloading
+[2025-10-06 10:46:35,060] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\zmq\\__init__.py', reloading
+[2025-10-06 10:46:35,080] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\zmq\\backend\\__init__.py', reloading
+[2025-10-06 10:46:35,081] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\zmq\\backend\\__init__.py', reloading
+[2025-10-06 10:46:35,110] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\zmq\\backend\\select.py', reloading
+[2025-10-06 10:46:35,111] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\zmq\\backend\\select.py', reloading
+[2025-10-06 10:46:35,130] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\zmq\\backend\\cython\\__init__.py', reloading
+[2025-10-06 10:46:35,131] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\zmq\\backend\\cython\\__init__.py', reloading
+[2025-10-06 10:46:35,305] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\IPython\\__init__.py', reloading
+[2025-10-06 10:46:35,306] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\IPython\\__init__.py', reloading

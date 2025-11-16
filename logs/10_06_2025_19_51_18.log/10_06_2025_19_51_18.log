@@ -1,0 +1,11 @@
+[2025-10-06 19:51:23,417] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-10-06 19:51:23,459] 97 werkzeug - INFO -  * Debugger PIN: 117-622-827
+[2025-10-06 19:51:23,635] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 19:51:23] "GET / HTTP/1.1" 200 -
+[2025-10-06 19:51:24,135] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 19:51:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-10-06 19:51:26,100] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 19:51:26] "GET /home HTTP/1.1" 200 -
+[2025-10-06 19:52:07,128] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\fake-news-detector\\venv\\Lib\\site-packages\\flask\\app.py', reloading
+[2025-10-06 19:52:07,129] 97 werkzeug - INFO -  * Detected change in 'D:\\Project\\Fake-News-Detector\\venv\\Lib\\site-packages\\flask\\app.py', reloading
+[2025-10-06 19:52:07,284] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 19:52:07] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-10-06 19:52:07,686] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 19:52:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-10-06 19:52:07,686] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 19:52:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-10-06 19:52:07,768] 97 werkzeug - INFO - 127.0.0.1 - - [06/Oct/2025 19:52:07] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=xkqciOIPjRddxH8nBF8e HTTP/1.1" 200 -
